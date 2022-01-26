@@ -1,0 +1,32 @@
+﻿body {
+    color: white;
+    background-color:palevioletred;
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera, #result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#fingure-gesture-1, #fingure-gesture-2 {
+    color: black;
+}
+
+.FGFont1 {
+    font-size: 40px;
+}
+
+.FGFont2 {
+    font-size: 48px;
+}
+
+#gesture_tag {
+    font-size: 20px;
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
